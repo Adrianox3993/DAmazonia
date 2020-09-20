@@ -1,0 +1,157 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Floral Therapi",
+      "categoria": "Floral",
+      "preço": "R$ 30,00",
+      "imagem": "floral_therapi.png",
+      "descrição": "Com os florais da Floral Thérapi você poderá harmonizar suas emoções, trabalhando sutilmente para restaurar o equilíbrio do seu ser." 
+
+    },
+    {
+      "id": 2,
+      "nome": "Vinagre de maçã",
+      "categoria": "Alimentos",
+      "preço": "R$ 30,00",
+      "imagem": "vinagre_de_maçã.png",
+      "descrição": "Vinagre de maçã emagrece, faz bem para o cabelo, trata refluxo e mais benefícios." 
+
+    },
+    {
+      "id": 3,
+      "nome": "Mix de temperos",
+      "categoria": "Temperos",
+      "preço": "R$ 10,00",
+      "imagem": "mix_de_temperos.png",
+      "descrição": "Varie o mix de acordo com o seu gosto, mas o orégano, o alho, a cebola e a pimenta, todos desidratados, não podem faltar."
+      
+
+    },
+    
+    {
+      "id": 4,
+      "nome": "Uxi Amarelo",
+      "categoria": "Cápsulas",
+      "preço": "R$ 20,00",
+      "imagem": "uxi_amarelo.png",
+      "descrição": "O composto uxi amarelo com unha de gato tem atuação na saúde da mulher. "
+      
+
+    },
+    {
+      "id": 5,
+      "nome": "Ameixas Desidratas",
+      "categoria": "Frutas desidratradas",
+      "preço": "R$ 10,00",
+      "imagem": "ameixa_desidratada.png",
+      "descrição": "A versão desidratada da fruta pode dar uma força a quem quer emagrecer."
+      
+
+    },
+    {
+      "id": 6,
+      "nome": "Amêndoas confeitadas",
+      "categoria": "Grãos",
+      "preço": "R$ 50,00",
+      "imagem": "amêndoas_confeitadas.png",
+      "descrição": "Amêndoas Confeitadas para momentos especiais! "
+      
+
+    },
+    {
+      "id": 7,
+      "nome": "Amêndoas ",
+      "categoria": "Grãos",
+      "preço": "R$ 52,00",
+      "imagem": "amêndoas.png",
+      "descrição": "Excelente fonte de minerais (Magnésio, Potássio, Ferro, Zinco e Cobre) e Proteínas vegetais! "
+      
+
+    },
+    {
+      "id": 8,
+      "nome": "Amendoim ",
+      "categoria": "Grãos",
+      "preço": "R$ 23,00",
+      "imagem": "amendoim.png",
+      "descrição": "O amendoim previne a aterosclerose, diminui o colesterol, melhorar o humor e fornecer energia, mas como é rico em gordura, pode causar oleosidade na pele."
+      
+
+    },
+    {
+      "id": 9,
+      "nome": "Barra de cereal ",
+      "categoria": "Alimentos",
+      "preço": "R$ 23,00",
+      "imagem": "barra_de_cereal.png",
+      "descrição": "Além de nutritivas e práticas, nossas Barras de Cereal vão bem na mochila, no bolso ou no carro e são fáceis de encontrar pelo caminho. "
+      
+
+    },
+    {
+      "id": 10,
+      "nome": "Bala de alga ",
+      "categoria": "Alimentos",
+      "preço": "R$ 15,00",
+      "imagem": "bala_de_alga.png",
+      "descrição": "Muito saborosas, as balas de algas são feita com agar agar. "
+      
+
+    },
+    {
+      "id": 11,
+      "nome": "Leite de coco em pó",
+      "categoria": "Alimentos",
+      "preço": "R$ 15,00",
+      "imagem": "leite_de_coco_em_po.png",
+      "descrição": "O Leite de Coco em pó é um alimento maravilhoso, único, de sabor naturalmente adocicado e textura aveludada e sedosa. "
+      
+
+    },
+    {
+      "id": 12,
+      "nome": "Óleo de coco",
+      "categoria": "Óleos",
+      "preço": "R$ 15,00",
+      "imagem": "oleos.png",
+      "descrição": "O Óleo de Coco Extra Virgem COPRA é composto de antioxidantes, diminuindo a ação dos radicais livres. "
+      
+
+    },
+    {
+      "id": 13,
+      "nome": "Desinchá",
+      "categoria": "Chás",
+      "preço": "R$ 15,00",
+      "imagem": "desinchá.png",
+      "descrição": "- Sem glúten, sem lactose, zero calorias e com muito sabor. Contém 60 envelopes. Peso líquido: 90g"
+      
+
+    },
+    {
+      "id": 14,
+      "nome": "Desinchá",
+      "categoria": "Chás",
+      "preço": "R$ 15,00",
+      "imagem": "desinchá.png",
+      "descrição": "- Sem glúten, sem lactose, zero calorias e com muito sabor. Contém 60 envelopes. Peso líquido: 90g"
+      
+
+    },
+    {
+      "id": 15,
+      "nome": "Mix de castanhas",
+      "categoria": "Grãos",
+      "preço": "R$ 10,00",
+      "imagem": "mix_de_castanhas.png",
+      "descrição": "Produto VEGANO • Não contém GLÚTEN • Sem LACTOSE • 100% NATURAL"
+      
+
+    },
+    
+
+
+  ]
+
+
