@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Apresentacao3">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="355dp"
+        android:layout_height="70dp"
+        android:fontFamily="@font/open_sans"
+        android:text="Agora você pode escolher seu produto sem sair de casa"
+        android:textColor="@color/design_default_color_on_secondary"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:visibility="visible"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="15dp"
+        tools:layout_editor_absoluteY="461dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="376dp"
+        android:layout_height="100dp"
+        android:fontFamily="@font/open_sans"
+        android:text="Aqui você pode escolher os produtos sem correr riscos saindo de casa e podendo agendar horário de busca ou entrega do seu pedido"
+        android:textColor="@color/colorAccent"
+        android:textSize="18sp"
+        android:typeface="sans"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="15dp"
+        tools:layout_editor_absoluteY="542dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="400dp"
+        android:layout_height="446dp"
+        android:visibility="visible"
+        app:srcCompat="@drawable/apresentacao3_"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="-2dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+
